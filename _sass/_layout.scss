@@ -257,12 +257,12 @@ div#cookie-warning {
                 padding:        1em 0.5em;
             }
             .label { 
-                width: 25%;
+                width: 30%;
                 font-weight: bold; 
             }
             .content {
                 @include small-text;
-                width: 75%;
+                width: 70%;
                 text-align: left;
             }
         }
