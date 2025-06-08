@@ -10,7 +10,7 @@
 
 {% if page.summary -%}
 <div class="post-header-section post-summary post-links post-meta">
-  <div class="label">Summary</div>
+  <div class="label">Описание</div>
   <div class="content">{{ page.summary }}</div>
 </div>
 {%- endif %}
@@ -20,7 +20,7 @@
   <div class="label" onclick="document.querySelector('.spoiler-hidden').classList.remove('spoiler-hidden');"><p>Предупреждения</p></div>
   <div class="content" title="Click to view.">
     <p class="spoiler-label spoiler-label-hidden">(Нажмите, чтобы посмотреть.)</p>
-    <p class="spoiler">{{ page.content_flags | join: ", " }}</p>
+    <p class="spoiler">{{ page.content_flags | join: "; " }}</p>
   </div>
 </div><!--/.post-flags-->
 {%- endif %}

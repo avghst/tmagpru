@@ -5,8 +5,8 @@ categories:      episode
 trailer:
 epilogue:
 bonus:
-episode_title:   'TITLE'
-episode_number:  '00'
+episode_title:   "TITLE"
+episode_number:  "00"
 summary:    
 content_flags:   []         
 ---
