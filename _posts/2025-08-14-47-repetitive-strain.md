@@ -375,9 +375,9 @@ Gute Reise Alice. Bis bald...<sup id="a5">[5](#f5)</sup>
 
 <small><b id="f1">1</b>. _Нем._: Все хорошо? [↩](#a1)</small>
 
-<small><b id="2">2</b>. _Нем._: Моя хорошая [↩](#a2)</small>
+<small><b id="f2">2</b>. _Нем._: Моя хорошая [↩](#a2)</small>
 
-<small><b id="3">3</b>. _Нем._: Понимаете? [↩](#a3)</small>
+<small><b id="f3">3</b>. _Нем._: Понимаете? [↩](#a3)</small>
 
 <small><b id="f4">4</b>. _Нем._: Да? [↩](#a4)</small>
 
